@@ -1,0 +1,57 @@
+[
+    {
+        "id": "IDTR001",
+		"nombrePolo": "Estación Coatzacoalcos del Tren Interoceánico",
+		"lat":18.126440635701705,
+    	"lng":-94.43926681635627,
+		"telefono": "",
+		"direccion": "96490, Carr. Costera del Golfo 40, Adolfo Lopez Mateos, Coatzacoalcos, Ver.",
+		"sitioweb": "www.estacioncoatzacoalcos.mx",
+        "image1": "https://lh5.googleusercontent.com/p/AF1QipPZepEvODanMZJ6U6KaCvPvc6Ot5igpzgeFgW1u=w408-h306-k-no",
+		"polo": 1
+    },
+    {
+        "id": "IDTR002",
+		"nombrePolo": "Estación Jesús Carranza del Tren Interoceánico",
+		"lat":17.438352975481713,
+    	"lng":-95.03088116708521,
+		"telefono": "",
+		"direccion": "Ferrocarril Ote., 96950 Jesús Carranza, Ver.",
+		"sitioweb": "www.estacionjesuscarranza.mx",
+        "image1": "https://sic.cultura.gob.mx/galeria_imagen/46c5ec0a6ad13Z-0126B.jpg",
+		"polo": 1
+    },
+    {
+        "id": "IDTR003",
+		"nombrePolo": "Estación Jáltipan de Morelos del Tren Interoceánico",
+		"lat":17.983345413648436,
+    	"lng":-94.71156962651168,
+		"telefono": "",
+		"direccion": "Benito Juárez 526, Ferrocarrilera, 96210 Jáltipan de Morelos, Ver.",
+		"sitioweb": "www.estacionjaltipan.mx",
+        "image1": "https://diarioistmo.blob.core.windows.net/images/2023/06/08/codi0608-vias09-fg-focus-0-0-732-549.jpg",
+		"polo": 1
+    },
+    {
+        "id": "IDTR004",
+		"nombrePolo": "Estación Donají del Tren Interoceánico",
+		"lat":17.2314,
+    	"lng":-95.0597 ,
+		"telefono": "",
+		"direccion": "70313 Matías Romero Avendaño, Oax.",
+		"sitioweb": "www.estaciondonaji.mx",
+        "image1": "https://oaxaca.eluniversal.com.mx/sites/default/files/2023/08/29/tren_transitsmico_.jpg",
+		"polo": 1
+    },
+    {
+        "id": "IDTR005",
+		"nombrePolo": "Estación Mogoñé del Tren Interoceánico",
+		"lat":16.993138,
+    	"lng":-95.038747 ,
+		"telefono": "",
+		"direccion": "XXV6+6G, 70340 Estación Mogoñé, Oax.",
+		"sitioweb": "www.estacionmogoñe.mx",
+        "image1": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mogo%C3%B1%C3%A9.jpg",
+		"polo": 1
+    }
+]
